@@ -12,6 +12,8 @@ This project aims to provide comprehensive documentation and tooling for working
 
 **New to this project?** Read **[SUGGESTIONS.md](./SUGGESTIONS.md)** first - it's a 5-minute read that will save you hours of confusion.
 
+**Need help navigating all the docs?** Check the **[DOCS-INDEX.md](./DOCS-INDEX.md)** for a complete guide to all documentation.
+
 ## ⚠️ Next Steps Required
 
 This project currently uses the DocKit template and needs customization. **Here's how to proceed:**
