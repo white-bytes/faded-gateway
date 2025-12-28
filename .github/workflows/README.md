@@ -118,6 +118,9 @@ Add these to your README.md to display workflow status:
 
 ## Maintenance
 
-- Workflows use latest GitHub Actions (v4 for checkout/setup-node, v3 for CodeQL)
+- Workflows use current stable GitHub Actions versions:
+  - `actions/checkout@v4` and `actions/setup-node@v4` for repository and Node.js setup
+  - `github/codeql-action@v3` for security scanning
+  - `actions/upload-artifact@v4` and artifact-related actions for CI/CD
 - Update action versions periodically for security and features
 - Review and update Node.js versions in matrix as needed
